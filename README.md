@@ -1,3 +1,7 @@
 # Деплой приложения на сервер с использованием pm2
 
-Стартеркит проекта по автоматизации деплоя фронтенда и бэкенда при помощи pm2 (pm2 deploy)
+## Находится по адресам:
+
+- IP адрес: 158.160.61.225
+- Frontend: http://myfirstdomain.students.nomoredomains.monster/
+- Backend: http://api.myfirst.students.nomoredomains.monster/

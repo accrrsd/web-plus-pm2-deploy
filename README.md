@@ -2,6 +2,6 @@
 
 ## Находится по адресам:
 
-- IP адрес: 158.160.61.225
+- IP адрес: 130.193.49.51
 - Frontend: http://myfirstdomain.students.nomoredomains.monster/
 - Backend: http://api.myfirst.students.nomoredomains.monster/
